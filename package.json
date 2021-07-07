@@ -1,0 +1,13 @@
+{
+  "name": "jest-hoist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-plugin-jest-hoist": "^27.0.6",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
+    "jest": "^27.0.6"
+  }
+}
